@@ -1,0 +1,43 @@
+{
+	"name": "format-latex",
+	"version": "0.0.0",
+	"description": "Format latex",
+	"license": "MIT",
+	"repository": "itaisteinherz/format-latex",
+	"author": {
+		"name": "Itai Steinherz",
+		"email": "itaisteinherz@gmail.com",
+		"url": "github.com/itaisteinherz"
+	},
+	"bin": "cli.js",
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+		"test": "xo && ava"
+	},
+	"files": [
+		"index.js",
+		"cli.js"
+	],
+	"keywords": [
+		"cli-app",
+		"cli",
+		""
+	],
+	"dependencies": {
+		"meow": "^3.7.0"
+	},
+	"devDependencies": {
+		"ava": "^0.20.0",
+		"xo": "^0.18.2"
+	},
+	"xo": {
+		"rules": {
+			"quotes": [
+				"error",
+				"double"
+			]
+		}
+	}
+}
