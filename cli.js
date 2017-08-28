@@ -5,7 +5,7 @@ const formatLatex = require(".");
 
 const cli = meow(String.raw`
 	Usage
-	  $ format-latex [input]
+	  $ format-latex <input>
 
 	Examples
 	  $ format-latex "\lfloor1/x\rfloor"

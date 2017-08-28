@@ -41,11 +41,11 @@ $ npm install --global https://github.com/itaisteinherz/format-latex
 $ format-latex --help
 
   Usage
-    format-latex [input]
+    format-latex <input>
 
   Examples
-	$ format-latex "\lfloor1/x\rfloor"
-	\left\lfloor 1/x\right\rfloor
+    $ format-latex "\lfloor1/x\rfloor"
+    \left\lfloor 1/x\right\rfloor
 ```
 
 
