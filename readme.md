@@ -1,6 +1,6 @@
 # format-latex [![Build Status](https://travis-ci.org/itaisteinherz/format-latex.svg?branch=master)](https://travis-ci.org/itaisteinherz/format-latex)
 
-> Format latex
+> Format [LaTeX](https://en.wikipedia.org/wiki/LaTeX)
 
 
 ## Install
